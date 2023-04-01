@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewData["Title"] = "WEATHER APP";
+ }
+@foreach(var cities in ViewBag.cityWeather )
+{
+<div class="box float-left w-50"> 
+    <div class="text-green">
+       <table class="flex-borderless">
+            <tr class="blue-back">City</tr>
+            <tr>
+                <td> @cities.CityName</td>
+            </tr>
+                <tr>
+                    <td>
+                        <a href="/weather/@cities.CityUniqueCode">@cities.CityUniqueCode</a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="text-red">@cities.DateAndTime?.ToString("yyyy-mm-dd")</td>
+                </tr>
+                 <tr>
+                    <td class="text-red">@cities.TemperatureFahrenheit</td>
+                </tr>
+       </table>
+    </div>
+</div>
+}

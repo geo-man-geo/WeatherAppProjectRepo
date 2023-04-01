@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "qKokehqX6TIIItvtyKGJmU3zLbHMvDwDV5C0unOSXb0=",
+  "Source": "WeatherAppProject",
+  "BasePath": "_content/WeatherAppProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WeatherAppProject\\wwwroot",
+      "Source": "WeatherAppProject",
+      "ContentRoot": "C:\\Users\\Geo Manuel George\\source\\repos\\WeatherAppProject\\WeatherAppProject\\wwwroot\\",
+      "BasePath": "_content/WeatherAppProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Geo Manuel George\\source\\repos\\WeatherAppProject\\WeatherAppProject\\wwwroot\\StyleSheet.css",
+      "SourceId": "WeatherAppProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Geo Manuel George\\source\\repos\\WeatherAppProject\\WeatherAppProject\\wwwroot\\",
+      "BasePath": "_content/WeatherAppProject",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
