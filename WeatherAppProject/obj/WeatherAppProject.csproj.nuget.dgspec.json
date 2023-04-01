@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Geo Manuel George\\source\\repos\\WeatherAppProject\\WeatherAppProject\\WeatherAppProject.csproj": {}
+    "C:\\Users\\Geo Manuel George\\Desktop\\DotNetProjects\\WeatherAppProject\\WeatherAppProject\\WeatherAppProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Geo Manuel George\\source\\repos\\WeatherAppProject\\WeatherAppProject\\WeatherAppProject.csproj": {
+    "C:\\Users\\Geo Manuel George\\Desktop\\DotNetProjects\\WeatherAppProject\\WeatherAppProject\\WeatherAppProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Geo Manuel George\\source\\repos\\WeatherAppProject\\WeatherAppProject\\WeatherAppProject.csproj",
+        "projectUniqueName": "C:\\Users\\Geo Manuel George\\Desktop\\DotNetProjects\\WeatherAppProject\\WeatherAppProject\\WeatherAppProject.csproj",
         "projectName": "WeatherAppProject",
-        "projectPath": "C:\\Users\\Geo Manuel George\\source\\repos\\WeatherAppProject\\WeatherAppProject\\WeatherAppProject.csproj",
+        "projectPath": "C:\\Users\\Geo Manuel George\\Desktop\\DotNetProjects\\WeatherAppProject\\WeatherAppProject\\WeatherAppProject.csproj",
         "packagesPath": "C:\\Users\\Geo Manuel George\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Geo Manuel George\\source\\repos\\WeatherAppProject\\WeatherAppProject\\obj\\",
+        "outputPath": "C:\\Users\\Geo Manuel George\\Desktop\\DotNetProjects\\WeatherAppProject\\WeatherAppProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Geo Manuel George\\AppData\\Roaming\\NuGet\\NuGet.Config",
