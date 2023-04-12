@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WeatherContracts/1.0.0": {
+        "dependencies": {
+          "WeatherModels": "1.0.0"
+        },
+        "runtime": {
+          "WeatherContracts.dll": {}
+        }
+      },
+      "WeatherModels/1.0.0": {
+        "runtime": {
+          "WeatherModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

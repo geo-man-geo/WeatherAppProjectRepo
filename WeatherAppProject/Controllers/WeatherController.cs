@@ -1,34 +1,45 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using WeatherAppProject.Models;
+using WeatherContracts;
+using WeatherServices;
+using WeatherModels;
 
 namespace WeatherAppProject.Controllers
 {
     public class WeatherController : Controller
     {
+        private readonly IWeatherService _weatherService;
+        private readonly IServiceScopeFactory _serviceScopeFactory;
+
+        public WeatherController(IWeatherService weatherService, IServiceScopeFactory serviceScopeFactory)
+        {
+            _weatherService = weatherService;
+            _serviceScopeFactory = serviceScopeFactory;
+        }
+
         [Route("/")]
         public IActionResult Index()
         {
-            List<CityWeather> cityWeather = new List<CityWeather>() { 
-                new CityWeather() {CityUniqueCode = "LDN", CityName = "London", DateAndTime = Convert.ToDateTime("2030-01-01 8:00"),  TemperatureFahrenheit = 33},
-                new CityWeather() {CityUniqueCode = "NYC", CityName = "New York", DateAndTime = Convert.ToDateTime("2030-01-01 3:00"),  TemperatureFahrenheit = 60},
-                new CityWeather() {CityUniqueCode = "PAR", CityName = "Paris", DateAndTime = Convert.ToDateTime("2030-01-01 9:00"),  TemperatureFahrenheit = 82}
-            };
-            ViewBag.cityWeather = cityWeather;
-            return View();
+            List<WeatherModel>? weatherDetails;
+            using (IServiceScope scope = _serviceScopeFactory.CreateScope())
+            {
+                IWeatherService? weatherServiceScoped = scope.ServiceProvider.GetService<IWeatherService>();
+                weatherDetails = weatherServiceScoped?.GetWeatherDetails();
+            }
+            return View((IEnumerable<WeatherModel>?)weatherDetails);
         }
 
         [Route("weather/{cityCode}")]
         public IActionResult Weather(string cityCode)
         {
-            List<CityWeather> cityWeather = new List<CityWeather>() {
-                new CityWeather() {CityUniqueCode = "LDN", CityName = "London", DateAndTime = Convert.ToDateTime("2030-01-01 8:00"),  TemperatureFahrenheit = 33},
-                new CityWeather() {CityUniqueCode = "NYC", CityName = "New York", DateAndTime = Convert.ToDateTime("2030-01-01 3:00"),  TemperatureFahrenheit = 60},
-                new CityWeather() {CityUniqueCode = "PAR", CityName = "Paris", DateAndTime = Convert.ToDateTime("2030-01-01 9:00"),  TemperatureFahrenheit = 82}
-            };
+            string cityUniqueCode = cityCode;
+            WeatherModel? city;
+            using(IServiceScope scope = _serviceScopeFactory.CreateScope())
+            {
+                IWeatherService? weatherServiceScoppedcity = scope.ServiceProvider.GetService<IWeatherService>();
+                city = weatherServiceScoppedcity?.GetWeatherCity(cityUniqueCode);
+            }
+            return View((WeatherModel?)city);
 
-            var cityList = cityWeather.Where(city => city.CityUniqueCode == cityCode).ToList();
-            ViewBag.cityList = cityList;
-            return View(cityList);
         }
     }
 }

@@ -1,0 +1,17 @@
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherServices\bin\Debug\net6.0\WeatherServices.deps.json
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherServices\bin\Debug\net6.0\WeatherServices.dll
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherServices\bin\Debug\net6.0\WeatherServices.pdb
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherServices\bin\Debug\net6.0\WeatherContracts.dll
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherServices\bin\Debug\net6.0\WeatherModels.dll
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherServices\bin\Debug\net6.0\WeatherContracts.pdb
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherServices\bin\Debug\net6.0\WeatherModels.pdb
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherServices\obj\Debug\net6.0\WeatherServices.csproj.AssemblyReference.cache
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherServices\obj\Debug\net6.0\WeatherServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherServices\obj\Debug\net6.0\WeatherServices.AssemblyInfoInputs.cache
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherServices\obj\Debug\net6.0\WeatherServices.AssemblyInfo.cs
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherServices\obj\Debug\net6.0\WeatherServices.csproj.CoreCompileInputs.cache
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherServices\obj\Debug\net6.0\WeatherServices.csproj.CopyComplete
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherServices\obj\Debug\net6.0\WeatherServices.dll
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherServices\obj\Debug\net6.0\refint\WeatherServices.dll
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherServices\obj\Debug\net6.0\WeatherServices.pdb
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherServices\obj\Debug\net6.0\ref\WeatherServices.dll

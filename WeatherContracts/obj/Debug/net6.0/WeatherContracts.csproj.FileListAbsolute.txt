@@ -1,0 +1,15 @@
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherContracts\bin\Debug\net6.0\WeatherContracts.deps.json
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherContracts\bin\Debug\net6.0\WeatherContracts.dll
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherContracts\bin\Debug\net6.0\WeatherContracts.pdb
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherContracts\bin\Debug\net6.0\WeatherModels.dll
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherContracts\bin\Debug\net6.0\WeatherModels.pdb
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherContracts\obj\Debug\net6.0\WeatherContracts.csproj.AssemblyReference.cache
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherContracts\obj\Debug\net6.0\WeatherContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherContracts\obj\Debug\net6.0\WeatherContracts.AssemblyInfoInputs.cache
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherContracts\obj\Debug\net6.0\WeatherContracts.AssemblyInfo.cs
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherContracts\obj\Debug\net6.0\WeatherContracts.csproj.CoreCompileInputs.cache
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherContracts\obj\Debug\net6.0\WeatherContracts.csproj.CopyComplete
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherContracts\obj\Debug\net6.0\WeatherContracts.dll
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherContracts\obj\Debug\net6.0\refint\WeatherContracts.dll
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherContracts\obj\Debug\net6.0\WeatherContracts.pdb
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherContracts\obj\Debug\net6.0\ref\WeatherContracts.dll

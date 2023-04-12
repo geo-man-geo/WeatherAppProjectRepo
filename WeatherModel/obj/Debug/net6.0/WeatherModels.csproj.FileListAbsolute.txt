@@ -1,0 +1,12 @@
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherModel\bin\Debug\net6.0\WeatherModels.deps.json
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherModel\bin\Debug\net6.0\WeatherModels.dll
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherModel\bin\Debug\net6.0\WeatherModels.pdb
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherModel\obj\Debug\net6.0\WeatherModels.csproj.AssemblyReference.cache
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherModel\obj\Debug\net6.0\WeatherModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherModel\obj\Debug\net6.0\WeatherModels.AssemblyInfoInputs.cache
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherModel\obj\Debug\net6.0\WeatherModels.AssemblyInfo.cs
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherModel\obj\Debug\net6.0\WeatherModels.csproj.CoreCompileInputs.cache
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherModel\obj\Debug\net6.0\WeatherModels.dll
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherModel\obj\Debug\net6.0\refint\WeatherModels.dll
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherModel\obj\Debug\net6.0\WeatherModels.pdb
+C:\Users\Geo Manuel George\Desktop\DotNetProjects\WeatherAppProject\WeatherModel\obj\Debug\net6.0\ref\WeatherModels.dll

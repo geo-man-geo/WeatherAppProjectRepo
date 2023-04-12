@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qKokehqX6TIIItvtyKGJmU3zLbHMvDwDV5C0unOSXb0=",
+  "Hash": "3uV5Ur0SEFP0/dlnOx/buiRtBF2bO6c4nZACgFwBCT4=",
   "Source": "WeatherAppProject",
   "BasePath": "_content/WeatherAppProject",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WeatherAppProject\\wwwroot",
       "Source": "WeatherAppProject",
-      "ContentRoot": "C:\\Users\\Geo Manuel George\\source\\repos\\WeatherAppProject\\WeatherAppProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Geo Manuel George\\Desktop\\DotNetProjects\\WeatherAppProject\\WeatherAppProject\\wwwroot\\",
       "BasePath": "_content/WeatherAppProject",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Geo Manuel George\\source\\repos\\WeatherAppProject\\WeatherAppProject\\wwwroot\\StyleSheet.css",
+      "Identity": "C:\\Users\\Geo Manuel George\\Desktop\\DotNetProjects\\WeatherAppProject\\WeatherAppProject\\wwwroot\\StyleSheet.css",
       "SourceId": "WeatherAppProject",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Geo Manuel George\\source\\repos\\WeatherAppProject\\WeatherAppProject\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Geo Manuel George\\Desktop\\DotNetProjects\\WeatherAppProject\\WeatherAppProject\\wwwroot\\",
       "BasePath": "_content/WeatherAppProject",
       "RelativePath": "StyleSheet.css",
       "AssetKind": "All",

@@ -1,22 +1,12 @@
 ﻿@{
     ViewData["Title"] = "WEATHER APPLICATION PROJECT";
 }
-@foreach (var cityList in ViewBag.cityList)
-{
-    <div class="box float-left w-50">
-        <div class="text-green">
-            <table class="flex-borderless">
-                <tr class="blue-back">City</tr>
-                <tr>
-                    <td>@cityList.CityName</td>
-                </tr>
-                <tr>
-                    <td class="text-red">@cityList.DateAndTime?.ToString("MM/DD/YYYY")</td>
-                </tr>
-                <tr>
-                    <td class="text-red">@cityList.TemperatureFahrenheit</td>
-                </tr>
-            </table>
-        </div>
-    </div>
-}
+<div>
+    <ul>
+        <li>@Model.CityUniqueCode</li>
+        <li>@Model.CityName</li>
+        <li>@Model.DateAndTime.ToString("yyyy-MM-dd HH:mm")</li>
+        <li>@Model.TemperatureFahrenheit</li>
+    </ul>
+</div>
+

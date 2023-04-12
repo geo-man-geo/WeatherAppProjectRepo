@@ -6,4 +6,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WeatherContracts\WeatherContracts.csproj" />
+    <ProjectReference Include="..\WeatherModel\WeatherModels.csproj" />
+    <ProjectReference Include="..\WeatherServices\WeatherServices.csproj" />
+  </ItemGroup>
+
 </Project>
